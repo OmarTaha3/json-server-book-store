@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Edited title",
+      "description": "Edited Descriotion"
+    },
+    {
+      "id": 2,
+      "title": "The second title",
+      "description": "The second description"
+    },
+    {
+      "id": 68,
+      "title": "formik",
+      "description": "formik",
+      "userId": 1
+    },
+    {
+      "id": 53,
+      "title": "After validation",
+      "description": "after val",
+      "userId": 1
+    },
+    {
+      "id": 92,
+      "title": "ss",
+      "description": "s",
+      "userId": 1
+    }
+  ]
+}
